@@ -1,0 +1,1 @@
+["ProgrammingHaskell-0.1","Add",[1,8,11],{"ProgrammingHaskell-0.1":{"Add":{"vars":{"add":[{"l":[3,1,16],"d":true,"s":"add"}]}}},"base":{"GHC.Num":{"vars":{"+":[{"l":[3,13],"d":false,"s":"add"}]}},"Prelude":{"vars":{"":[{"l":[1,8,11],"d":false,"s":"import"}]}}}},{"o":[{"l":[3,1,16],"sl":null,"n":"add","d":null,"t":["Function"],"c":[],"s":null}],"e":[],"i":[]}]
